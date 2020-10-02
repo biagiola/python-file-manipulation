@@ -1,1 +1,2 @@
-this is a text example
+this is the first line of data.txt file
+this is the second line of data.txt file
